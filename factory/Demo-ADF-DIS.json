@@ -1,0 +1,9 @@
+{
+	"name": "Demo-ADF-DIS",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "86130e0b-de8e-4917-b77a-572d943662f1",
+		"tenantId": "aef6baf5-6231-4690-9308-23d674d56b05"
+	}
+}
